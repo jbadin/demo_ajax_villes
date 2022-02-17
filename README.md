@@ -1,2 +1,2 @@
-# demo_ajax_villes
-Comment charger une liste de villes selon un code postal en ajax
+# Tuto : Créer une liste de villes dynamique selon un code postal
+
